@@ -7,5 +7,6 @@
   * [Clean Code TypeScript](https://github.com/savepong/clean-code-typescript)
 * [PHP](php/README.md)
   * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
-* [Web Components](web-components.md)
+* [Web Components](web-components/README.md)
+  * [Open Web Components](https://open-wc.org/docs/)
 
