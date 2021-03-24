@@ -1,5 +1,5 @@
 ---
-description: Collecting all awesome documents for developer.
+description: รวบรวมสุดยอดคู่มือสำหรับนักพัฒนา
 ---
 
 # Introduction
