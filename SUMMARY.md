@@ -10,13 +10,16 @@
   * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [Tailwind CSS](tailwind-css/README.md)
   * [Tailblocks](https://tailblocks.cc/)
+* [Tips & Tricks](tips-and-tricks/README.md)
+  * [Setting up the nicest terminal for Windows](https://github.com/DigitalMachinist/win-zsh)
 * [TypeScript](clean-code/README.md)
   * [Clean Code TypeScript](https://github.com/savepong/clean-code-typescript)
   * [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets)
 * [Web Components](web-components/README.md)
   * [Open Web Components](https://open-wc.org/docs/)
   * [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
-* [Tips & Tricks](tips-and-tricks/README.md)
-  * [Setting up the nicest terminal for Windows](https://github.com/DigitalMachinist/win-zsh)
+
+## Contributor
+
 * [savepong.com](https://savepong.com)
 
