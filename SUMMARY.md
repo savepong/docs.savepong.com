@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [JavaScript](clean-code-1/README.md)
+* [JavaScript](javascript/README.md)
   * [Airbnb JavaScript Style Guide](https://github.com/lvarayut/javascript-style-guide)
   * [Clean Code JavaScript](https://github.com/savepong/clean-code-javascript)
   * [Code Review Tips](https://github.com/savepong/code-review-tips)
@@ -12,7 +12,7 @@
   * [Tailblocks](https://tailblocks.cc/)
 * [Tips & Tricks](tips-and-tricks/README.md)
   * [Setting up the nicest terminal for Windows](https://github.com/DigitalMachinist/win-zsh)
-* [TypeScript](clean-code/README.md)
+* [TypeScript](typescript/README.md)
   * [Clean Code TypeScript](https://github.com/savepong/clean-code-typescript)
   * [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets)
 * [Web Components](web-components/README.md)
