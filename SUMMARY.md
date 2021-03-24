@@ -15,4 +15,7 @@
   * [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets)
 * [Web Components](web-components/README.md)
   * [Open Web Components](https://open-wc.org/docs/)
+* [Tips & Tricks](tips-and-tricks/README.md)
+  * [Setting up the nicest terminal for Windows](https://github.com/DigitalMachinist/win-zsh)
+* [Testing Workflow for Web Components](https://dev.to/open-wc/testing-workflow-for-web-components-g73)
 
