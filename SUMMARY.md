@@ -13,7 +13,7 @@
 * [Tips & Tricks](tips-and-tricks/README.md)
   * [Setting up the nicest terminal for Windows](https://github.com/DigitalMachinist/win-zsh)
 * [TypeScript](typescript/README.md)
-  * [Clean Code TypeScript](https://github.com/savepong/clean-code-typescript)
+  * [Clean Code TypeScript](https://github.com/labs42io/clean-code-typescript)
   * [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets)
 * [Web Components](web-components/README.md)
   * [Open Web Components](https://open-wc.org/docs/)
